@@ -1,0 +1,14 @@
+{
+  "steampy": {
+    "game_url": "https://steampy.com/pro/cdKey/cdkDetail?name=cn&gameId=9001034537870446481409",
+    "max_price": 179.0,
+    "poll_interval_seconds": 60
+  },
+  "email": {
+    "smtp_host": "smtp.qq.com",
+    "smtp_port": 465,
+    "sender": "your_qq@qq.com",
+    "auth_code": "your_smtp_auth_code",
+    "receiver": "receiver@qq.com"
+  }
+}

@@ -1,0 +1,4 @@
+# SteamPY 价格监控 - Python 依赖
+# monitor.py / steampy_core.py / email_sender.py 只用 Python 标准库（urllib/smtplib/json），零第三方依赖
+# get_session.py（Playwright 一键登录）需要以下依赖
+playwright>=1.40
